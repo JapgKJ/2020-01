@@ -1,7 +1,16 @@
-body{
+* {
   background-color: white;
+  margin: 0;
+  padding: 0;
 }
-.navi{
-  width: 200px;
+#navi{
+  margin: 5px;
+  padding: 5px;
+  width: 50%;
+  height: 110px;
   background-color: aqua;
+}
+#logoimg{
+  width: 100px;
+  height: 100px;
 }
