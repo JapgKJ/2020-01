@@ -34,8 +34,24 @@ body {
 }
 #nav-bott li :hover{
   background-color: #F5B7B1;
+  border-radius: 5px;
   padding: 10px;
-
+  cursor: pointer;
 }
 
+/* fin de la barra de navegación*/
 
+/* division de la paguina, lado izquierdo.*/
+
+#box-iz{
+  background-color: #F5B7B1;
+  width: 48%;
+  height: 75vh;
+}
+
+h1{
+  margin: 0%;
+  padding: 2px;
+  text-align: center;
+  font-size: 60px;
+}
