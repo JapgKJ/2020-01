@@ -8,7 +8,6 @@ body {
   padding: 5px;
   width: 50%;
   height: 100px;
-  background-color: aqua;
  display: flex;
 }
 #logoimg{
@@ -16,7 +15,6 @@ body {
   height: 100px;
 }
 #nav-bott{
-  background-color: yellow; 
   margin: 50px 0px 0px 5px;
   padding: 0%;
   height: 50px;
@@ -25,12 +23,19 @@ body {
 #nav-bott li a {
   text-decoration: none;
   color: black; /* Color del texto */
-  font-size: 18px;
+  font-size: 20px;
 }
 
-#navi li{
+#navi li {
   margin:20px ;
   display: inline-block;
+
   
 }
+#nav-bott li :hover{
+  background-color: #F5B7B1;
+  padding: 10px;
+
+}
+
 
