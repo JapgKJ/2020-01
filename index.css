@@ -46,12 +46,32 @@ body {
 #box-iz{
   background-color: #F5B7B1;
   width: 48%;
-  height: 75vh;
+  height: 78vh;
+  position: absolute;
+  
 }
 
 h1{
   margin: 0%;
   padding: 2px;
-  text-align: center;
   font-size: 60px;
+  text-align: center;
+  
+}
+p{
+  margin: 0%;
+  padding: 2px;
+  text-align: center;
+}
+
+/* division de la paguina, lado derecho.*/
+
+#box-de{
+  
+  background-color: #b1f5c8;
+  width: 48%;
+  height: 78vh;
+  position: relative;
+  float: right;
+  
 }
