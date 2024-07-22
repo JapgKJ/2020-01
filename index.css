@@ -53,15 +53,18 @@ body {
 
 h1{
   margin: 0%;
-  padding: 2px;
   font-size: 60px;
   text-align: center;
+  position: relative;
+  top:35%;
   
 }
 p{
+  font-size: 30px;
   margin: 0%;
-  padding: 2px;
   text-align: center;
+  position: relative;
+  top: 40%;
 }
 
 /* division de la paguina, lado derecho.*/
